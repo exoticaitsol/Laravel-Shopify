@@ -1,11 +1,5 @@
 # Laravel Shopify App
 
-![Tests](https://github.com/osiset/laravel-shopify/workflows/Package%20Test/badge.svg?branch=master)
-[![codecov](https://codecov.io/gh/osiset/laravel-shopify/branch/master/graph/badge.svg?token=qqUuLItqJj)](https://codecov.io/gh/osiset/laravel-shopify)
-[![License](https://poser.pugx.org/osiset/laravel-shopify/license)](https://packagist.org/packages/osiset/laravel-shopify)
-
-----
-
 **[Closing]**
 
 **Please read [this announcement](https://github.com/osiset/laravel-shopify/discussions/1276).**
